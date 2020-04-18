@@ -8,7 +8,7 @@ tags: ['beans', 'soup']
 
 ## Ingredients
 
-- 150g cooked black beans.
+- 150g cooked black beans
 - 2t olive oil
 - 1T butter or light butter/margarine
 - 1 matzo (an unsalted egg matzo works very well)
