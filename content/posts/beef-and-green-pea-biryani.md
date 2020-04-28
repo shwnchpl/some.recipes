@@ -3,7 +3,7 @@ title: "Beef and Green Pea Biryani"
 date: 2020-04-06T17:52:25-04:00
 draft: false
 toc: false
-tags: ['rice', 'Persian', 'Indian']
+tags: ['Indian', 'Persian', 'rice']
 ---
 
 ## Ingredients
