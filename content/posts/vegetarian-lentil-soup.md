@@ -66,7 +66,11 @@ later).
 If you use a good scorpion pepper hot sauce, the end result will have a
 considerable amount of smokey heat that plays very well with smoked salt, but
 it is entirely possible to make a nice version of this soup without either of
-those ingredients.
+those ingredients. Likewise, double concentration tomato paste (which often
+comes in a tube) is nice, but plain old canned tomato paste will work just fine
+at a 1:1 substitution ratio. As for type of lentils, I generally use brown, but
+there is no reason why this recipe could not be made with green, red, or any
+other type of lentils you can get your hands on.
 
 Whenever cooking any type of dried beans, I always wait until the beans are
 softened completely to add salt and especially acid. In the case of salt this
