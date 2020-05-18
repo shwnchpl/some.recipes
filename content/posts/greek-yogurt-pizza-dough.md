@@ -33,3 +33,10 @@ might like to make a good old fashioned gas station cheeseburger pizza.
 
 If you need a pizza dough to be ready in under a half hour, this is the option.
 Bakes very well in a deep pan.
+
+Oddly enough, this dough can also be used to make decent quick bagels. Simply
+follow the process above, but rather than forming into a pizza shape, form into
+bagel-sized toroids (the quantities above should be enough for 6-8). Simmer for
+3-5 minutes in gently boiling water, until the proto-bagels float freely, then
+bake in a 400 degree oven for 25-30 minutes, until golden brown on the outside
+and cooked through.
